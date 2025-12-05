@@ -1,6 +1,6 @@
 # Project Overview
 
-+ The task required developing and comparing multiple machine learning approaches and improving them through:
+Machine learning project for a TU Wien Kaggle competition on classifying Rocket League skillshots. The task required developing and comparing multiple machine learning approaches and improving them through:
 
 + Data cleaning and preprocessing
 
